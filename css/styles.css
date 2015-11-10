@@ -17,13 +17,20 @@
 
 
 /* Textures or Patterns*/
-.pattern-1{
+.pattern-1 {
     background: url("http://img10.deviantart.net/5859/i/2013/160/3/b/paper_texture_by_evusha-d68dvv6.jpg");
 }
 
 /* Imagery */
+/*
 .imagery-1 {
     background: url("http://cdn7.staztic.com/app/a/2553/2553956/astronaut-cool-wallpaper-2-2-s-307x512.jpg");
+}
+*/
+
+.imagery-2 {
+    width: 640px;
+    height: 640px;
 }
 
 /* Icons */
