@@ -4,15 +4,18 @@
 
 /* Color Palette */
 .color-1 {
-    background: lightgrey;
+    background: #DBDBDB;
+    /* rgb: 219 219 205 */
 }
 
 .color-2 {
-    background: purple;
+    background: #39273E; 
+    /* rgb: 57 39 62 */
 }
 
 .color-3 {
-    background: orange;
+    background: #AB4E00;
+    /* rgb: 171 78 0*/
 }
 
 
@@ -20,6 +23,15 @@
 .pattern-1 {
     background: url("http://img10.deviantart.net/5859/i/2013/160/3/b/paper_texture_by_evusha-d68dvv6.jpg");
 }
+
+.pattern-2 {
+    background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/textured_paper.png);
+}
+
+.pattern-3 {
+    background: url(http://www.photos-public-domain.com/wp-content/uploads/2011/03/white-construction-paper-texture.jpg);
+}
+
 
 /* Imagery */
 /*
@@ -33,10 +45,28 @@
     height: 640px;
 }
 
+
 /* Icons */
 
 
 /* Typography */
+
+#prime {
+    font-family: 'Playfair Display', serif;
+    color: #AB4E00;
+}
+
+#sec {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #AB4E00;
+}
+
+#para {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #39273E;
+}
 
 
 /* Forms */
